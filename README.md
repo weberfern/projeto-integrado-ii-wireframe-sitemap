@@ -23,6 +23,8 @@
 
 O wireframe do projeto **Feira Conectada** foi construído com base nas principais funcionalidades identificadas na análise do Diagrama Entidade-Relacionamento (DER). Este wireframe serve como base visual para a interface do sistema, orientando o desenvolvimento das telas.
 
+> 🔗 **Acesse o projeto completo no Figma:** [Clique aqui para visualizar o wireframe interativo](https://www.figma.com/design/rmTPJuuExV4fdn4q1z6LG9/Projeto-Integrado-II---Feira-Conectada?node-id=0-1&t=ja7xoN7ShYJGpKHy-1)
+
 ![Diagrama Entidade-Relacionamento](der.jpg)
 
 ### Principais Funcionalidades
