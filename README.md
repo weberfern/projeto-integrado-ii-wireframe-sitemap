@@ -27,12 +27,35 @@ O wireframe do projeto **Feira Conectada** foi construído com base nas principa
 
 ### Principais Funcionalidades
 
-- **Login** - Autenticação de usuários no sistema
-- **Dashboard** - Visualização geral e controle central da plataforma
-- **Adicionar Nova Feira** - Cadastro de novas feiras na plataforma
-- **Gerenciar Produtos** - Administração de produtos disponíveis nas feiras
-- **Ver Mapa de Feiras** - Visualização geográfica das feiras cadastradas
-- **Ver Detalhes da Feira** - Acesso às informações específicas de cada feira
+#### 1. Login
+Autenticação de usuários no sistema.
+
+![Login](login.jpg)
+
+#### 2. Dashboard
+Visualização geral e controle central da plataforma.
+
+![Dashboard](dashboard.jpg)
+
+#### 3. Adicionar Nova Feira
+Cadastro de novas feiras na plataforma.
+
+![Adicionar Feira](adicionar%20feira.jpg)
+
+#### 4. Gerenciar Produtos
+Administração de produtos disponíveis nas feiras.
+
+![Gerenciar Produtos](gerenciar%20produtos.jpg)
+
+#### 5. Ver Mapa de Feiras
+Visualização geográfica das feiras cadastradas.
+
+![Mapa de Feiras](mapa%20de%20feiras.jpg)
+
+#### 6. Ver Detalhes da Feira
+Acesso às informações específicas de cada feira.
+
+![Detalhes da Feira](detalhes%20da%20feira.jpg)
 
 ---
 
